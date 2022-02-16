@@ -1,0 +1,38 @@
+body{
+    background-color:#ffcf89;
+}
+
+h1{
+    background-color: blue;
+    border: 3px solid red;
+    font-weight: lighter;
+    text-decoration: line-through;
+    font-style: italic;
+}
+h2,h3{
+    background-color: cadetblue;
+    border-bottom: 3px solid black;
+    text-decoration: none;
+    font-style: oblique;
+}
+h3{
+    color: white;
+    font-weight: normal;
+    
+}
+.red{
+   color: red;
+    font-size: 20px;
+    font-family: Verdana,arial,Geneva,arial black ;
+    font-weight: bold;
+    text-decoration: overline;
+}
+.blue{
+    color: blue;
+    font-size: 20px;
+    font-family: Helvetica;
+    font-weight: bolder;
+}
+.underline{
+    text-decoration: underline;
+}
